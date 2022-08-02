@@ -1,0 +1,7 @@
+﻿  Keylogger.cpp
+  Logging.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 156 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Keylogger.vcxproj -> C:\Users\Jefferson\Documents\Keylogger\x64\Release\Keylogger.exe
